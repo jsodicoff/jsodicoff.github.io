@@ -1,4 +1,5 @@
-# Easy Markdown to Github Pages
+# Welcome to my personal site!
+![](Carl.png)
 
 ## Introduction
 
