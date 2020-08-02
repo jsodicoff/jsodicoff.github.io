@@ -1,5 +1,5 @@
 # Welcome to my personal site!
-<center>![](josh_sodicoff_headshot.jpg| width = 400)</center>
+<center>![](josh_sodicoff_headshot.jpg | width = 400)</center>
 
 ## Introduction
 
