@@ -1,5 +1,5 @@
 # Welcome to my personal site!
-![](Carl.png)
+![](josh_sodicoff_headshot.jpg)
 
 ## Introduction
 
