@@ -16,7 +16,7 @@ I also presented at the [Mathematical Frameworks for Integrative Analysis of Eme
 
 ### Shea Lab
 
-Originally, I was offered a position in the Shea Lab to aid in the study and design of engineered CAR-T cells through the [Summer Undergraduate Research in Engineering](https://sure.engin.umich.edu/) program. However, this coincided with the COVID-19 pandemic, limited the amount of laboratory research that could occur during the program period. Instead, I worked on developing a Shiny app  that allows for the easy analysis of scRNAseq data from T cells, from multiple tissues from healthy individuals and breast cancer patients. Hopefully, lab members will be able to use this tool on many projects that require the identification of differentially expressed genes, transcription factors, and signalling molecules.
+Originally, I was offered a position in the Shea Lab to aid in the study and design of engineered CAR-T cells through the [Summer Undergraduate Research in Engineering](https://sure.engin.umich.edu/) program. However, this coincided with the COVID-19 pandemic, limiting the amount of laboratory research that could occur during the program period. Instead, I worked on developing a Shiny app  that allows for the easy analysis of scRNAseq data from T cells, from multiple tissues from healthy individuals and breast cancer patients. Hopefully, lab members will be able to use this tool on many projects that require the identification of differentially expressed genes, transcription factors, and signalling molecules.
 
 This upcoming fall, I will be working on the CAR-T cell project.
 
