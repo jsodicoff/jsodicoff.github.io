@@ -9,14 +9,14 @@
     * RMarkdown
     * Rcpp
     * ggplot2
-* C++
+* <img src="https://isocpp.org/files/img/cpp_logo.png" alt="Cpp" width="100"/>
   * Highly knowledgeable about the STL
   * Able to create command line tools
   * Skilled in complexity analysis
   * Can profile code performance with Valgrind, perf
   * Can integrate functionality into R with Rcpp
-* Python
+* <img src= "https://www.python.org/static/opengraph-icon-200x200.png" alt="py" width="100"/> 
   * Have a working knowledge of the language overall
   * Able to design and train neural networks using PyTorch
-* Matlab
+* <img src= "https://www.mathworks.com/company/newsletters/articles/the-mathworks-logo-is-an-eigenfunction-of-the-wave-equation/_jcr_content/mainParsys/image_2.adapt.480.high.gif/1469941373397.gif" alt="matlab" width="100"/> 
   * 
