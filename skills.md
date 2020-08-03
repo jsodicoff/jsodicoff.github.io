@@ -2,7 +2,7 @@
 
 ### Computational
 
-* R
+* ![](https://cloud.r-project.org/Rlogo.svg)
   * Proficient in data analysis and visualization in R. Here's a few specific useful skills I also know:
     * Package deployment
     * Shiny applications
@@ -16,6 +16,7 @@
   * Can profile code performance with Valgrind, perf
   * Can integrate functionality into R with Rcpp
 * Python
-  * 
+  * Have a working knowledge of the language overall
+  * Able to design and train neural networks using PyTorch
 * Matlab
   * 
