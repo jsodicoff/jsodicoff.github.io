@@ -2,7 +2,7 @@
 
 ### Computational
 
-* ![](https://cloud.r-project.org/Rlogo.svg)
+* <img src="https://cloud.r-project.org/Rlogo.svg" alt="R" width="100"/>
   * Proficient in data analysis and visualization in R. Here's a few specific useful skills I also know:
     * Package deployment
     * Shiny applications
