@@ -10,6 +10,15 @@ Here's the [poster](https://docs.google.com/presentation/d/10fF8abLmtp5WlRc0rbuX
 
 ### Welch Lab
 
+The summer after my freshman year, I began working in the Welch Lab through the [MCubed Scholars](https://lsa.umich.edu/urop/Prospective-Students/summer-programs/mcubed-scholars-program.html) program. During that summer, I grew adept in the R programming language, learned about single cell multi-omic analysis software packages, and added functionality to [LIGER](https://macoskolab.github.io/liger/), an integrative nonnegative matrix factorization-based single cell analysis tool. I also applied LIGER to the analysis of single cell RNA- and ATACseq collected from mouse bone marrow.
+
+Here's the [poster](https://docs.google.com/presentation/d/1jeQc31mbBFYLlgkADKtPDz3DeLtkmyYiBTw9XIdKorY/edit?usp=sharing) I presented at the 2019 UROP Summer Symposium.
+
+During the academic year, 
+
+This summer, I've been working on a project associated with the [BRAIN Initiative Cell Census Network](https://braininitiative.nih.gov/brain-programs/cell-census-network-biccn) to leverage high-definition single cell sequencing and in situ hybridization data from the Allen Brain Atlas to determine the spatial distribution of neuronal and non-neuronal cell types in the mouse primary motor cortex.
+
+I also presented at the [Mathematical Frameworks for Integrative Analysis of Emerging Biological Data Types](https://www.birs.ca/events/2020/5-day-workshops/20w5197) workshop hosted by the [Banff International Research Station for Mathematical Innovation and Discovery](https://www.birs.ca/) on the application of LIGER to the integration of spatial transcriptomic data, generated with seqFISH, and scRNAseq from the mouse visual cortex. Here's a [video](http://videos.birs.ca/2020/20w5197/202006150841-Sodicoff.mp4) of my presentation.
 ### Shea Lab
 
 ### Michigan Synthetic Biology Team
