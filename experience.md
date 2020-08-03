@@ -1,6 +1,4 @@
-## Experience
-
-As a student at the University of Michigan, I've been pretty lucky to have access to a pretty wide number of experiences both in and outside of the sciences.
+# Experience
 
 ### Zhang Lab
 
