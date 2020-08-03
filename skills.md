@@ -18,5 +18,5 @@
 * <img src= "https://www.python.org/static/opengraph-icon-200x200.png" alt="py" width="100"/> 
   * Have a working knowledge of the language overall
   * Able to design and train neural networks using PyTorch
-* <img src= "https://www.mathworks.com/company/newsletters/articles/the-mathworks-logo-is-an-eigenfunction-of-the-wave-equation/_jcr_content/mainParsys/image_2.adapt.480.high.gif/1469941373397.gif" alt="matlab" width="100"/> 
+* <img src= "https://mpng.subpng.com/20190210/zae/kisspng-the-student-edition-of-matlab-simulink-mathworks-c-blog-do-prof-anderson-scs-78-semestre-aula-5c5fbd49ca8015.5854183015497782498295.jpg" alt="matlab" width="100"/> 
   * 
