@@ -16,7 +16,7 @@ My work has primarily been in the application of machine learning to single cell
 
 ## Contact me?
 
-You can reach me at sodicoff@umich.edu.
+You can reach me at <sodicoff@umich.edu>.
 
 Recently, I have been looking for collaboraters to help plan a workshop on computational literacy for life sciencees students as part of a [NSF grant](https://www.nsf.gov/pubs/2020/nsf20074/nsf20074.jsp?org=NSF). If you are looking for experience in workshop planning, grant writing, or any other element of the process shoot me an email.
 
