@@ -18,5 +18,5 @@
 * <img src= "https://www.python.org/static/opengraph-icon-200x200.png" alt="py" width="100"/> 
   * Have a working knowledge of the language overall
   * Able to design and train neural networks using PyTorch
-* <img src= "https://banner2.cleanpng.com/20180703/yrf/kisspng-matlab-simulink-signal-processing-programming-lang-cube-island-online-survival-3d-5b3b394d2f1946.2068935715306079491929.jpg" alt="matlab" width="100"/> 
+* <img src= "matlab.png.png" alt="matlab" width="100"/> 
   * 
