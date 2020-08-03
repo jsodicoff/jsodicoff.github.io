@@ -19,4 +19,8 @@
   * Have a working knowledge of the language overall
   * Able to design and train neural networks using PyTorch
 * <img src= "matlab.png.png" alt="matlab" width="100"/> 
-  * 
+  * Can apply to the modelling and solution of differential equations
+  * Experienced in the use the Statistics and Machine Learning Toolbox
+* Additional
+  * Experience running jobs on a high performance computing cluster
+  * Basic bash scripting
