@@ -22,7 +22,9 @@ This upcoming fall, I will be working on the CAR-T cell project.
 
 ### Michigan Synthetic Biology Team
 
-`coming soon`
+MSBT is a student-run research group, focused on the development of engineered organisms with real world applications as well as public outreach on relevant topics. The club presents their research at the yearly [IGEM](https://igem.org/Main_Page) Giant Jamboree. As a team member, I have helped to plan the project, completed wet lab experiments in support of it, and represented the team at outreach events.
+
+Here's our [wiki](https://2019.igem.org/Team:Michigan) from last year's project, Got Milk?, which sought to leverage bacterial quorum sensing to create a simple diagnostic test for milk spoilage. We won't be competing in IGEM this year on account of losing a lot of lab time to COVID-19, but look out for more info on a project in the near future!
 
 ### Daily Weekly
 
@@ -32,4 +34,6 @@ For my first three semesters at the university, I worked as an audio producer fo
 
 This upcoming academic year, I will be serving on the Board of Directors of the [Inter-Cooperative Council At Ann Arbor](https://icc.coop/), a council of housing cooperatives that primarily house University of Michigan students, as a representative of my new home, MichMinnies House. I care a lot about direct democracy, cooperative living, and affordable housing, and am incredibly excited to advance those concepts in this role.
 
+### ERS
 
+A few weeks ago, I signed up to be part of the planning committee for the College of Engineering's yearly research symposium, which highlights the work of graduate and undergraduate students, scheduled to take place in February. I don't really know what this will entail but I am nonetheless very excited to support the research of my peers.
