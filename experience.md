@@ -24,6 +24,8 @@ This upcoming fall, I will be working on the CAR-T cell project.
 
 ### Michigan Synthetic Biology Team
 
+`coming soon`
+
 ### Daily Weekly
 
 For my first three semesters at the university, I worked as an audio producer for the (Daily Weekly)][https://www.michigandaily.com/page/michigan-daily-podcasts], a news podcast organized by the Michigan Daily. Our small team produced a weekly podcast on campus, local, and national news, featuring interviews and field reporting. Although I left on account of increasing academic responsibilities, I will always look back fondly on our editing sessions, the one time I got to record an ASMR style intro, and the comradery we had as one of the smallest sections at the Daily.
