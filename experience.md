@@ -30,6 +30,6 @@ For my first three semesters at the university, I worked as an audio producer fo
 
 ### ICC
 
-This upcoming academic year, I will be serving on the board of the [Inter-Cooperative Council At Ann Arbor](https://icc.coop/), a council of housing cooperatives that primarily house University of Michigan students, as a representative of my new home, MichMinnies house. I care a lot about direct democracy, cooperative living, and affordable housing, and am incredibly excited to advance those concepts in this role.
+This upcoming academic year, I will be serving on the board of the [Inter-Cooperative Council At Ann Arbor](https://icc.coop/), a council of housing cooperatives that primarily house University of Michigan students, as a representative of my new home, MichMinnies House. I care a lot about direct democracy, cooperative living, and affordable housing, and am incredibly excited to advance those concepts in this role.
 
 
