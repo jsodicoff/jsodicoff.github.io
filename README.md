@@ -18,7 +18,7 @@ My work has primarily been in the application of machine learning to single cell
 
 You can reach me at <sodicoff@umich.edu>.
 
-Recently, I have been looking for collaboraters to help plan a workshop on computational literacy for life sciencees students as part of a [NSF grant](https://www.nsf.gov/pubs/2020/nsf20074/nsf20074.jsp?org=NSF). If you are looking for experience in workshop planning, grant writing, or any other element of the process shoot me an email.
+Recently, I have been looking for collaboraters to help plan a workshop on computational literacy for life sciences students as part of a [NSF grant](https://www.nsf.gov/pubs/2020/nsf20074/nsf20074.jsp?org=NSF). If you are looking for experience in workshop planning, grant writing, or any other element of the process shoot me an email.
 
 Beyond that, I'd be happy to hear about and consider working on any project you have that is tangentially related to my interests. I will make anyone who asks nicely enough a Shiny app.
 
