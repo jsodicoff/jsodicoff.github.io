@@ -24,3 +24,11 @@
 * Additional
   * Experience running jobs on a high performance computing cluster
   * Basic bash scripting
+  
+### Certifications
+
+Up to date on
+* Biosafety and Bloodborne Pathogens
+* Responsible Conduct of Research and Scholarship
+* Covid 19: Working Safely in U-M Research Labs
+trainings, provided by UMich EHS
