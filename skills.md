@@ -24,7 +24,12 @@
 * Additional
   * Experience running jobs on a high performance computing cluster
   * Basic bash scripting
-  
+
+### Lab
+* Basic cell culture techniques for human and mouse cells
+* Transfection
+* ELISA
+
 ### Certifications
 
 Up to date on
