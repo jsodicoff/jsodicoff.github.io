@@ -8,7 +8,7 @@ Through the [Undergraduate Research Opportunities Program](https://lsa.umich.edu
 
 The summer after my freshman year, I began working in the Welch Lab through the [MCubed Scholars](https://lsa.umich.edu/urop/Prospective-Students/summer-programs/mcubed-scholars-program.html) program. During that summer, I grew adept in the R programming language, learned about single cell multi-omic analysis software packages, and added functionality to [LIGER](https://macoskolab.github.io/liger/), an integrative nonnegative matrix factorization-based single cell analysis tool. I also applied LIGER to the analysis of single cell RNA- and ATACseq collected from mouse bone marrow. Here's the [poster](https://docs.google.com/presentation/d/1jeQc31mbBFYLlgkADKtPDz3DeLtkmyYiBTw9XIdKorY/edit?usp=sharing) I presented at the 2019 UROP Summer Symposium.
 
-During the academic year, I began working on methods for the analysis of spatial transciptomic data. I also helped write a paper explaining how to use LIGER,soon to be published in [Nature Protocols](https://www.nature.com/nprot/)
+During the academic year, I began working on methods for the analysis of spatial transciptomic data. I also helped write a paper explaining how to use LIGER, soon to be published in [Nature Protocols](https://www.nature.com/nprot/). Here's a [preprint](https://www.biorxiv.org/content/10.1101/2020.04.07.029546v1?rss=1) for now.
 
 This summer, I've been working on a project associated with the [BRAIN Initiative Cell Census Network](https://braininitiative.nih.gov/brain-programs/cell-census-network-biccn) to leverage high-definition single cell sequencing and in situ hybridization data from the Allen Brain Atlas to determine the spatial distribution of neuronal and non-neuronal cell types in the mouse primary motor cortex.
 
@@ -18,7 +18,7 @@ I also presented at the [Mathematical Frameworks for Integrative Analysis of Eme
 
 Originally, I was offered a position in the Shea Lab to aid in the study and design of engineered CAR-T cells through the [Summer Undergraduate Research in Engineering](https://sure.engin.umich.edu/) program. However, this coincided with the COVID-19 pandemic, limiting the amount of laboratory research that could occur during the program period. Instead, I worked on developing a Shiny app  that allows for the easy analysis of scRNAseq data from T cells, from multiple tissues from healthy individuals and breast cancer patients. Hopefully, lab members will be able to use this tool on many projects that require the identification of differentially expressed genes, transcription factors, and signalling molecules.
 
-This upcoming fall, I will be working on the CAR-T cell project.
+I will be working in the lab throughout the fall semester.
 
 ### Michigan Synthetic Biology Team
 
