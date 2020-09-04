@@ -10,7 +10,6 @@ My work has primarily been in the application of machine learning to single cell
 
 ### [Experience](experience.md)
 ### [Skills](skills.md)
-### [Interests]()
 ### [My favorite courses](fav_courses.md)
 
 
