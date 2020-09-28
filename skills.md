@@ -26,8 +26,9 @@
   * Basic bash scripting
 
 ### Lab
-* Basic cell culture techniques for human and mouse cells
-* Transfection
+* Cell culture techniques for eukaryotic cells
+* Genetic modification of T cells
+* Killing assay
 * ELISA
 
 ### Certifications
