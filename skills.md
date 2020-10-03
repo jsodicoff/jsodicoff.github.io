@@ -35,6 +35,8 @@
 
 Up to date on
 
+* General Lab Safety
+* Autoclave Operations and Safety Procedures
 * Biosafety and Bloodborne Pathogens
 * Responsible Conduct of Research and Scholarship
 * Covid 19: Working Safely in U-M Research Labs
