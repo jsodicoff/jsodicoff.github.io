@@ -30,6 +30,15 @@
 * Genetic modification of T cells
 * Killing assay
 * ELISA
+* Breadboarding
+* Experimental design
+
+### Logistics
+* Grading code and scientific reports
+* Study group facilitation
+* Office hours faciliation
+* Curricular material writing
+* <img src="https://i.stack.imgur.com/AarYf.png" alt="R" width="100"/> and Markdown
 
 ### Certifications
 
