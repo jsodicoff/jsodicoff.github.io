@@ -12,4 +12,4 @@
 
 *[Designing an ID2-like inhibitor of DNA binding in silico](files/protein_presentation.pdf)*, presented at a Yang Zhang Lab meeting, January 2019
 
-
+**[Back](https://jsodicoff.github.io/)**
