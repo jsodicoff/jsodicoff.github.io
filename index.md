@@ -5,4 +5,4 @@ layout: default
   ## Hi all!</center>
 </div>
 
-###(Posters)[posters.md]
+### [Posters](posters.md)
