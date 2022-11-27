@@ -8,4 +8,4 @@
 
 *[Integrative Single-Cell Genomic Analysis of Mesenchymal Stem Cells](files/mcubed_poster.pdf)*, presented at the Undergraduate Research Opportunities Program Summer Research Symposium, July 2019
 
-*[Designing an ID-like Protein In Silico](urop_poster.pdf)*, presented at the Undergraduate Research Opportunities Program Spring Research Symposium, April 2019
+*[Designing an ID-like Protein In Silico](files/urop_poster.pdf)*, presented at the Undergraduate Research Opportunities Program Spring Research Symposium, April 2019
