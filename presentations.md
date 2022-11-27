@@ -2,7 +2,7 @@
 
 *[How to set up a wet lab for cell reprogramming experiments]()*, presented at a Welch Lab meeting, October 2022
 
-*{Acui-Care External Design Review]()*, presented in BIOMEDE 450, December 2021
+*[Acui-Care External Design Review]()*, presented in BIOMEDE 450, December 2021
 
 *[Application of LIGER to integration of seqFISH and scRNA-seq]()*, presented at the Mathematical Frameworks for Integrative Analysis of Emerging Biological Data Types workshop, June 2020
 
