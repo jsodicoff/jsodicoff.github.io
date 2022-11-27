@@ -13,3 +13,5 @@
 *[Intro to Visualization with ggplot2](files/ggplot.html)*, written as (one of many) course notes for BIOMEDE 499, January 2021
 
 *[Jointly Defining Cell Types from Multiple Single-Cell Datasets Using LIGER](https://www.nature.com/articles/s41596-020-0391-8)*, published in Nature Protocols, October 2020 (as third author)
+
+**[Back](https://jsodicoff.github.io/)**
