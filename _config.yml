@@ -8,7 +8,8 @@
 # Site settings
 title: Joshua Sodicoff
 email: sodicoff@umich.edu
-description: > sodicoff@umich.edu       856 873 4751
+description: > 
+  sodicoff@umich.edu       856 873 4751
 baseurl: ""
 url: "https://jsodicoff.github.io"
 show_downloads: false
