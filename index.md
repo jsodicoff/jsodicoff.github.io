@@ -13,13 +13,18 @@ I'm Josh (they/them), a Winter '22 graduate of the University of Michigan's Coll
   * Control theory
   * Information theory
 * Microbial ecology
+  * Root-associated microbiota
+  * Evolution of hydrothermal vent ecosystems
+  * Nutrient sharing
 * Methods design
   * High content imaging
-  * 
+  * 'Omics - Single cell and spatial transcriptomics, metagenomics and -transcriptomics, among others.
+  * Machine and statistical learning
 * DEI
   * Open source code
   * Open access publishing
   * LGBTQIA representation in academia
+  * Democratic socialism
 
 #### Opportunities
 
