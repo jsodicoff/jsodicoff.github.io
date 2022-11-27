@@ -1,5 +1,6 @@
 ---
 layout: default
 ---
-<center>## Hi all!</center>
-
+<div align="center">
+  ## Hi all!</center>
+</div>
