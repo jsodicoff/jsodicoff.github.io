@@ -13,6 +13,6 @@ I'm Josh (they/them), a Winter '22 graduate of the University of Michigan's Coll
 
 ### [Presentations](presentations.md)
 
-### [Reports and other writing](reports.md)
+### [Reports and Papers](reports.md)
 
 ### [Contact](contact.md)
