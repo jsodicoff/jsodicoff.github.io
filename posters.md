@@ -1,5 +1,5 @@
-Sodicoff J., Kriebel A., Welch J.D.(June 2022) [Distribution-free deconvolution of spatial transcriptomic data using heterogeneous single-cell datasets](). BRAIN Initiative Investigators Meeting Bethesda, MD
-Sodicoff J., Decker J, Shea L.. (August 2021) [Application of immunohistochemistry to the analysis of CAR-T cell therapy in triple negative breast cancer](). UM Summer Undergraduate Research in Engineering Symposium Ann Arbor, MI
-Sodicoff J., Welch J.D. (November 2020) [Deconvolving spatial transcriptomic data using heterogeneous single-cell datasets](). UM Data Science Symposium, Ann Arbor, MI
-Sodicoff J., Matsushita Y., Ono W., Welch J.D., Ono N. (July 2019) [Integrative Single-Cell Genomic Analysis of Mesenchymal Stem Cells](). Undergraduate Research Opportunities Program Summer Research Symposium, Ann Arbor, MI
-Sodicoff J., Huang X., Zhang Y. (April 2019) [Designing an ID-like Protein In Silico](). Undergraduate Research Opportunities Program Spring Research Symposium, Ann Arbor, MI
+[Distribution-free deconvolution of spatial transcriptomic data using heterogeneous single-cell datasets]("/files/BRAIN poster (4).pdf"), presented at the BRAIN Initiative Investigators Meeting, June 2021
+[Application of immunohistochemistry to the analysis of CAR-T cell therapy in triple negative breast cancer](), presented at the UM Summer Undergraduate Research in Engineering Symposium, August 2021
+[Deconvolving spatial transcriptomic data using heterogeneous single-cell datasets](), presented at the UM Data Science Symposium, November 2020
+[Integrative Single-Cell Genomic Analysis of Mesenchymal Stem Cells](), presented at the Undergraduate Research Opportunities Program Summer Research Symposium, July 2019
+[Designing an ID-like Protein In Silico](), presented at the Undergraduate Research Opportunities Program Spring Research Symposium, April 2019
