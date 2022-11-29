@@ -6,7 +6,8 @@
 
 *[Extracellular Electron Transport in Shewanella](files/cee_paper.pdf)*, submitted for CEE 693, April 2022
 
-*[Acui-care Design History File](files/DHF.pdf)*, submitted for BIOMEDE 450, December 2021
+*[Mentiva: A Methylphenidate-Based Treatment for Attention Deficit Hyperactivity Disorder with Low Incidence of Appetite Suppression
+](files/DHF.pdf)*, submitted for BIOMEDE 450, December 2021
 
 *[Community-wide hackathons to identify central themes in single cell multiomics](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02433-9)*, published in Genome Biology, August 2021 (as a very minor author)
 
